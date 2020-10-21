@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I am Arushi Sharma. I love working with different languages, learning new technologies and tools. My current obsession is over Apache Pulsar, Scala and Go. 
+I wish to collaborate and work on cutting-edge technology.
+
 <!--
 **97arushisharma/97arushisharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +17,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=97arushisharma)
