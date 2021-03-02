@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Arushi Sharma. I love working with different languages, learning new technologies and tools. My current obsession is over Apache Pulsar, Scala and Go. 
+I am Arushi Sharma. I love working with different languages, learning new technologies and tools. My current obsession is over Scala and Go. 
 I wish to collaborate and work on cutting-edge technology.
 
 <!--
