@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-I am Arushi Sharma. I love working with different languages, learning new technologies and tools. My current obsession is over Scala, Spark and Go. 
-I wish to collaborate and work on cutting-edge technology.
+I am Arushi Sharma. I love working with different languages, learning new technologies and tools. Currently building backend in JAVA at Goldman Sachs as a Software Developer. I wish to collaborate and work on cutting-edge technology.
 
 <!--
 **97arushisharma/97arushisharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
